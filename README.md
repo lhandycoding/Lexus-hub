@@ -40,5 +40,4 @@ https://discord.gg/MuXeqdjhG
 
 # I USED NOTHING UI
 - nothing ui library:
-https://github.com/3345-c-a-t-s-u
-s/NOTHING
+https://github.com/3345-c-a-t-s-u-s/NOTHING
